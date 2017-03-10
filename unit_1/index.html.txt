@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Yo yo yo</title>
+</head>
+
+<body>
+	<h1>VicJoPho, the person who shoots..what?</h1>
+	<p>Literally and figuratively shoots stuff<p>
+</body>
