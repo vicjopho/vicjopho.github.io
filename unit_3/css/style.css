@@ -38,11 +38,12 @@ h3 {
        text-align: center;    
        bottom: 20px; 
        width: 100%;
-       font-size: 125%;
+       font-size: 100%;
        font-weight: bold;
        font-color: white;
 	}
+
 a:link {
-   color:inherit;
+   color: inherit;
 }
 
