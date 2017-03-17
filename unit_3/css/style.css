@@ -3,13 +3,13 @@
 
 body { 
   text-align: center;
+
  background: url("https://static1.squarespace.com/static/532b8ca7e4b010786b59ccd3/t/58c9ee89ff7c50b076c01ae4/1489628823794/?format=2500w");
   /*background-image: url("/images/IMG_1025-instgm.jpg"); */
   background-position: 50% 40%;
   color: #fff;
   font-family: Helvetica;
   background-repeat: no-repeat;
- }
 
 h1 {
 	font-weight: 500;
