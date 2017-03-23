@@ -4,12 +4,11 @@
 /* CSS Document */
 
 body { 
-  text-align: center;
   background: url("https://static1.squarespace.com/static/532b8ca7e4b010786b59ccd3/t/58d1f6e46a4963c19a0b9711/1490155238218/alphonsobackground.jpg?format=2500w");
-  /*background-image: url("IMG_1025-instgm.jpg"); */
   background-size: cover;
   color: #fff;
   font-family: 'Cinzel', serif;
+  text-align: center;
  }
 
 h1 {
@@ -18,8 +17,8 @@ h1 {
 
 p {
 	color: white;
-	text-align: center;
 	font-size: 90%;
+	text-align: center;
 }
 li { 
 	font-size: 80%;
@@ -32,13 +31,14 @@ h2 {
 }
 
  .footer { 
-       position: fixed;     
-       text-align: center;    
+          
        bottom: 30px; 
-       width: 100%;
        font-size: 120%;
        font-weight: bold;
        font-color: white;
+       position: fixed;  
+       text-align: center;
+       width: 100%;  
 	}
 a:link {
    color:inherit;
