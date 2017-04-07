@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+@charset "utf-8";
+/* CSS Document */
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div	{
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+
+	text-align: center;
+	
+	background-color: lightblue;
+	
+	/*background-image: url("../images/IMG_8124-Pano.jpg");*/
+	
+	background-size: cover;
+
+	color: #000;
+
+	font-family: 'Cinzel', serif;
+
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
