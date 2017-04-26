@@ -75,7 +75,7 @@ h2 {
   margin: 0 auto;
 }
 
-.article {
+.column-content {
   width: 270px;
   padding: 10px;
   margin: 0 10px;
@@ -93,6 +93,7 @@ h2 {
 #article3 {
   background-color: #B96A91;
 }
+
 .images {
   padding-top: 8px;
   padding-bottom: 8px;
@@ -112,10 +113,10 @@ h2 {
     padding: 35px;
     margin: 0 auto;
 }
-}
-#footer {
+
+footer {
     margin: 0px auto;
-    padding-bottom: 60px;
+    padding-bottom: 20px;
     width: 800px;
 }
 
