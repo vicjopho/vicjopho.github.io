@@ -1,0 +1,154 @@
+  @import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+@charset "utf-8";
+/* CSS Document */
+body    {
+    font-family: 'Cinzel', serif;
+    font-size: 1em; /* 16px */
+}
+
+header {
+    background-color: #FFFFFF;
+    height: 7em;
+    margin: .5em;
+    padding: 1em;
+
+}
+.logo {
+    float: left;
+    vertical-align: middle;
+}
+.title  {
+    transform: translateY(-50%);
+    top: 40%;
+    position: relative;
+    padding-left: 35%; /* 350px/1459.2px ; hd viewport size */ 
+    font-size: 2em;
+}
+.button {
+    background-color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    font-size: .8em; /* 14px */
+    display: block;
+    float: right;
+    padding: 10px;
+    width: 100px;
+}
+.button:hover {
+    background-color: #e5e5e5;
+    }
+
+nav {
+    background-color: #FFFFFF;
+}
+a   {
+    color: #000000;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font: 0;
+}
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 2;
+}
+.main-title {
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+.main-contact {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+#container {
+  width: 63.8493944181148%;
+  margin: 0 auto;
+}
+
+.column-content {
+  width: 27.83505154639175%;
+  padding: 1.03092783505155%;
+  margin: 1.03092783505155%;
+  float: left;
+}
+
+#article1 {
+  background-color: #ffb8c8;
+}
+
+#article2 {
+  background-color: #f5aa9d;
+}
+
+#article3 {
+  background-color: #B96A91;
+}
+
+.images {
+  padding-top: 3.42685799957164%;
+  padding-bottom: 3.42685799957164%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+    font: 0;
+}
+.about-me   {
+    border-color: #E82C0C;
+    border: 0.15809776765952%;
+    width: 93.45794392523364%;
+    padding: 2.74462445695645%;
+    margin: 0 auto;
+}
+
+footer {
+    margin: 0px auto;
+    padding-bottom: 1.54225786551511%;
+    width: 61.69031462060457%;
+}
+
+#footer .copyright {
+    text-align: center;
+    /*font-size: 1em;*/
+    padding-bottom: 1.78369700933468%;
+}
+
+@media only screen and (max-width: 710px)  {
+  .column-content {
+    margin: 10px auto;
+    float: none;
+    }
+    h2 {
+      font-size: .8em;
+    }
+    p {
+      font-size: .8em;
+ }
+
+  }
+@media only screen and (max-width: 375px)  {
+  .title {
+    font-size: .8em;
+  }
+ /* */#logo {
+    /*display: none;*/
+  }
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: .5em;
+  }
+}
